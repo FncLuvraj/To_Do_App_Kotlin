@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/50cd5eec17a8151100c5b9736c894bd7/transformed/jetified-databinding-ktx-7.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/b0e359f465d53495211b8454798e63a5/transformed/jetified-room-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/f727f8bbdd8acbfd38952d3a648d2879/transformed/navigation-fragment-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e667c47077f511e6aa96830719242aee/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d5388156eb6de362fd9e4b4d2ab1d977/transformed/jetified-fragment-ktx-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e8935fbe1445e50e9aa90df2260b6069/transformed/navigation-ui-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/980a3aeb0fd33fc2107f11480efe3ed8/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ded763cb9b0f3245400e4bb0d8bd853c/transformed/navigation-ui-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/58dc34ced5224926498f9885b1f8be22/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/0fe52996f8993cca538f1f1d405d1c1f/transformed/jetified-activity-ktx-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/70976f08851d06c2927d1915f7fe1833/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/a8ac56200949f79acb686ae670713aca/transformed/navigation-common-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/082960ddc51328e6db211d84d535ef87/transformed/jetified-lifecycle-viewmodel-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/luvrajsingh/.gradle/caches/transforms-3/11a964b8641d093364b5aa551e37b462/transformed/material-1.4.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/luvrajsingh/.gradle/caches/transforms-3/b6c4ece8031606e91b65192579ed7bfa/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/f44172eba7ee0ba870c7ef1fe9b912dd/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/cc746eae29e1fa431921ff1d169a768d/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/664522788c12fb92fbe1cd73b9ac3ecb/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/214e01481f4b480c280076542441b374/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/bef7658f86a2d6551bd3ad6085384d46/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/84a35ce52f4107440ab1773c6edfc5b4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/6df23317eea1e38424de28713d5614c1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/cf2a1e1a40ae12e71eeca724e37ee3f8/transformed/fragment-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7a7a6e790d29c683e8499f9a33f20451/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/0c8a492f12ce8102221d133752efcd2c/transformed/jetified-activity-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e47f4caf6c20857c1c1d71054a0740b5/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/20944784487845fe67fe13856cf136ea/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/988b93dcb1a1021c9363e97d9b893e92/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e13e87205303c7a3a10b6226ce5b2b1a/transformed/jetified-lifecycle-runtime-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/5aa5063fb4be58be24465b43706da664/transformed/databinding-adapters-7.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/80ec3c4d58362189592b7760245c6062/transformed/databinding-runtime-7.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/6aceae04eeebdc1c040678420cb391a9/transformed/jetified-viewbinding-7.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/luvrajsingh/.gradle/caches/transforms-3/014eea9cd3fc69c78c91f462ca1af0fe/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/7f3ccbe1697d61fa4ddd52013ad31598/transformed/room-runtime-2.4.2/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/342cf96df4255e63cc2ac7bee88fe91f/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d0d2c6b7bef55cca811e525f70ee8683/transformed/jetified-lifecycle-livedata-core-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e7bea232aa212585882c2d2e319cdf22/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2ed62050ad869d5c26db2f6137174a80/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/671194b95d7a979ce0f6a959564ffc08/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/550fa3be425345812eb6f8f5357908cf/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/00b65c119f10fff5308c4791936717b5/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d0307df3fb9fdd2e425476b503b9c633/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.media:media:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ce921f0db59099f636f623fbc7f84718/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c58c354ca8059c027a001f21d20cfa8d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2b93787604ef5dc1228f4eae0bf3ec2b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/4d03435bdffff4bf62ab655d5307f8a2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d01aa0bec4178e8b4f8c1f3dc25451e3/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/5b6d0672f5e8331a0b4bf7dda33a8f6a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/01128961b627440cbc24a7429f1ef671/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/b9ab339ccdb8929bbc2037c83d132947/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c66282d332db9d2fe725fb835818af7b/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/423e90160e0339631fb7027b3d9eaf56/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/luvrajsingh/.gradle/caches/transforms-3/f3ffb79759b726c66b5f9890596113e0/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/luvrajsingh/.gradle/caches/transforms-3/01b79032e24029b3bde889c33f655661/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e84810b9e50a0d9cb42249bce714adc3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/4f92543bb758828e60350141e1e07c61/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e2b4d4b740a0471a58cb7f7aca446ed3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/596ef86cd9438107b0dc8d29536f9fd0/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/8e0089800712aa5309fc2844c5dbb090/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7ab96c7123ab64a9a107394d0fe444da/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/c6c52d9a2de42e3e268bb15d85370533/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/1cd9e1a1298230aab0fd9e4bf57de63b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/9d4b4bfddc3bbee5f99ee87131f652dd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2df7a37aa3a68488e56b37522f23920b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/f351339e995d83bd90572ac782cba607/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/876d729d94d634a2d44c2d05c135eb7a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/70a1f0f122999d410729cc55f6c8ca20/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/1422d6485342cc0b62aa0a9149abc53b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/8f2ae6637df0765c31efa474ef1863a1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/luvrajsingh/.gradle/caches/transforms-3/11a964b8641d093364b5aa551e37b462/transformed/material-1.4.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/luvrajsingh/.gradle/caches/transforms-3/11a964b8641d093364b5aa551e37b462/transformed/material-1.4.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/luvrajsingh/.gradle/caches/transforms-3/b6c4ece8031606e91b65192579ed7bfa/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/luvrajsingh/.gradle/caches/transforms-3/b6c4ece8031606e91b65192579ed7bfa/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/cc746eae29e1fa431921ff1d169a768d/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/cc746eae29e1fa431921ff1d169a768d/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.room:room-runtime:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/7f3ccbe1697d61fa4ddd52013ad31598/transformed/room-runtime-2.4.2/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/7f3ccbe1697d61fa4ddd52013ad31598/transformed/room-runtime-2.4.2/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] /Users/luvrajsingh/.gradle/caches/transforms-3/01b79032e24029b3bde889c33f655661/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/luvrajsingh/.gradle/caches/transforms-3/01b79032e24029b3bde889c33f655661/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e84810b9e50a0d9cb42249bce714adc3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e84810b9e50a0d9cb42249bce714adc3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/c6c52d9a2de42e3e268bb15d85370533/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/c6c52d9a2de42e3e268bb15d85370533/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/1cd9e1a1298230aab0fd9e4bf57de63b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/1cd9e1a1298230aab0fd9e4bf57de63b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/luvrajsingh/.gradle/caches/transforms-3/01b79032e24029b3bde889c33f655661/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:9:9-41
+	android:fullBackupContent
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:12:9-40
+activity#luvraj.app.todoapp.MainActivity
+ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:windowSoftInputMode
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:16:13-52
+	android:exported
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:15:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-ktx:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/50cd5eec17a8151100c5b9736c894bd7/transformed/jetified-databinding-ktx-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/50cd5eec17a8151100c5b9736c894bd7/transformed/jetified-databinding-ktx-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/b0e359f465d53495211b8454798e63a5/transformed/jetified-room-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/b0e359f465d53495211b8454798e63a5/transformed/jetified-room-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/f727f8bbdd8acbfd38952d3a648d2879/transformed/navigation-fragment-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/f727f8bbdd8acbfd38952d3a648d2879/transformed/navigation-fragment-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e667c47077f511e6aa96830719242aee/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e667c47077f511e6aa96830719242aee/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d5388156eb6de362fd9e4b4d2ab1d977/transformed/jetified-fragment-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d5388156eb6de362fd9e4b4d2ab1d977/transformed/jetified-fragment-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e8935fbe1445e50e9aa90df2260b6069/transformed/navigation-ui-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e8935fbe1445e50e9aa90df2260b6069/transformed/navigation-ui-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/980a3aeb0fd33fc2107f11480efe3ed8/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/980a3aeb0fd33fc2107f11480efe3ed8/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ded763cb9b0f3245400e4bb0d8bd853c/transformed/navigation-ui-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ded763cb9b0f3245400e4bb0d8bd853c/transformed/navigation-ui-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/58dc34ced5224926498f9885b1f8be22/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/58dc34ced5224926498f9885b1f8be22/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/0fe52996f8993cca538f1f1d405d1c1f/transformed/jetified-activity-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/0fe52996f8993cca538f1f1d405d1c1f/transformed/jetified-activity-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/70976f08851d06c2927d1915f7fe1833/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/70976f08851d06c2927d1915f7fe1833/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/a8ac56200949f79acb686ae670713aca/transformed/navigation-common-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/a8ac56200949f79acb686ae670713aca/transformed/navigation-common-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/082960ddc51328e6db211d84d535ef87/transformed/jetified-lifecycle-viewmodel-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/082960ddc51328e6db211d84d535ef87/transformed/jetified-lifecycle-viewmodel-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/luvrajsingh/.gradle/caches/transforms-3/11a964b8641d093364b5aa551e37b462/transformed/material-1.4.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/luvrajsingh/.gradle/caches/transforms-3/11a964b8641d093364b5aa551e37b462/transformed/material-1.4.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/luvrajsingh/.gradle/caches/transforms-3/b6c4ece8031606e91b65192579ed7bfa/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/luvrajsingh/.gradle/caches/transforms-3/b6c4ece8031606e91b65192579ed7bfa/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/f44172eba7ee0ba870c7ef1fe9b912dd/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/f44172eba7ee0ba870c7ef1fe9b912dd/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/cc746eae29e1fa431921ff1d169a768d/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/cc746eae29e1fa431921ff1d169a768d/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/664522788c12fb92fbe1cd73b9ac3ecb/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/664522788c12fb92fbe1cd73b9ac3ecb/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/214e01481f4b480c280076542441b374/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/214e01481f4b480c280076542441b374/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/bef7658f86a2d6551bd3ad6085384d46/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/bef7658f86a2d6551bd3ad6085384d46/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/84a35ce52f4107440ab1773c6edfc5b4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/84a35ce52f4107440ab1773c6edfc5b4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/6df23317eea1e38424de28713d5614c1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/6df23317eea1e38424de28713d5614c1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/cf2a1e1a40ae12e71eeca724e37ee3f8/transformed/fragment-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/cf2a1e1a40ae12e71eeca724e37ee3f8/transformed/fragment-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7a7a6e790d29c683e8499f9a33f20451/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7a7a6e790d29c683e8499f9a33f20451/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/0c8a492f12ce8102221d133752efcd2c/transformed/jetified-activity-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/0c8a492f12ce8102221d133752efcd2c/transformed/jetified-activity-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e47f4caf6c20857c1c1d71054a0740b5/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e47f4caf6c20857c1c1d71054a0740b5/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/20944784487845fe67fe13856cf136ea/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/20944784487845fe67fe13856cf136ea/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/988b93dcb1a1021c9363e97d9b893e92/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/988b93dcb1a1021c9363e97d9b893e92/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e13e87205303c7a3a10b6226ce5b2b1a/transformed/jetified-lifecycle-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e13e87205303c7a3a10b6226ce5b2b1a/transformed/jetified-lifecycle-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/5aa5063fb4be58be24465b43706da664/transformed/databinding-adapters-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/5aa5063fb4be58be24465b43706da664/transformed/databinding-adapters-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/80ec3c4d58362189592b7760245c6062/transformed/databinding-runtime-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/80ec3c4d58362189592b7760245c6062/transformed/databinding-runtime-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/6aceae04eeebdc1c040678420cb391a9/transformed/jetified-viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/luvrajsingh/.gradle/caches/transforms-3/6aceae04eeebdc1c040678420cb391a9/transformed/jetified-viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/luvrajsingh/.gradle/caches/transforms-3/014eea9cd3fc69c78c91f462ca1af0fe/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/luvrajsingh/.gradle/caches/transforms-3/014eea9cd3fc69c78c91f462ca1af0fe/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/7f3ccbe1697d61fa4ddd52013ad31598/transformed/room-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/7f3ccbe1697d61fa4ddd52013ad31598/transformed/room-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/342cf96df4255e63cc2ac7bee88fe91f/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/342cf96df4255e63cc2ac7bee88fe91f/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d0d2c6b7bef55cca811e525f70ee8683/transformed/jetified-lifecycle-livedata-core-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d0d2c6b7bef55cca811e525f70ee8683/transformed/jetified-lifecycle-livedata-core-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e7bea232aa212585882c2d2e319cdf22/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e7bea232aa212585882c2d2e319cdf22/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2ed62050ad869d5c26db2f6137174a80/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2ed62050ad869d5c26db2f6137174a80/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/671194b95d7a979ce0f6a959564ffc08/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/671194b95d7a979ce0f6a959564ffc08/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/550fa3be425345812eb6f8f5357908cf/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/550fa3be425345812eb6f8f5357908cf/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/00b65c119f10fff5308c4791936717b5/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/00b65c119f10fff5308c4791936717b5/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d0307df3fb9fdd2e425476b503b9c633/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d0307df3fb9fdd2e425476b503b9c633/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.media:media:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ce921f0db59099f636f623fbc7f84718/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/ce921f0db59099f636f623fbc7f84718/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c58c354ca8059c027a001f21d20cfa8d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c58c354ca8059c027a001f21d20cfa8d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2b93787604ef5dc1228f4eae0bf3ec2b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2b93787604ef5dc1228f4eae0bf3ec2b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/4d03435bdffff4bf62ab655d5307f8a2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/4d03435bdffff4bf62ab655d5307f8a2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d01aa0bec4178e8b4f8c1f3dc25451e3/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/d01aa0bec4178e8b4f8c1f3dc25451e3/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/5b6d0672f5e8331a0b4bf7dda33a8f6a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/5b6d0672f5e8331a0b4bf7dda33a8f6a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/01128961b627440cbc24a7429f1ef671/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/01128961b627440cbc24a7429f1ef671/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/b9ab339ccdb8929bbc2037c83d132947/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/b9ab339ccdb8929bbc2037c83d132947/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c66282d332db9d2fe725fb835818af7b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/c66282d332db9d2fe725fb835818af7b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/423e90160e0339631fb7027b3d9eaf56/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/423e90160e0339631fb7027b3d9eaf56/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/luvrajsingh/.gradle/caches/transforms-3/f3ffb79759b726c66b5f9890596113e0/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/luvrajsingh/.gradle/caches/transforms-3/f3ffb79759b726c66b5f9890596113e0/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/luvrajsingh/.gradle/caches/transforms-3/01b79032e24029b3bde889c33f655661/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/luvrajsingh/.gradle/caches/transforms-3/01b79032e24029b3bde889c33f655661/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e84810b9e50a0d9cb42249bce714adc3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e84810b9e50a0d9cb42249bce714adc3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/4f92543bb758828e60350141e1e07c61/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/luvrajsingh/.gradle/caches/transforms-3/4f92543bb758828e60350141e1e07c61/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e2b4d4b740a0471a58cb7f7aca446ed3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e2b4d4b740a0471a58cb7f7aca446ed3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/596ef86cd9438107b0dc8d29536f9fd0/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/596ef86cd9438107b0dc8d29536f9fd0/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/8e0089800712aa5309fc2844c5dbb090/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/luvrajsingh/.gradle/caches/transforms-3/8e0089800712aa5309fc2844c5dbb090/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7ab96c7123ab64a9a107394d0fe444da/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7ab96c7123ab64a9a107394d0fe444da/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/c6c52d9a2de42e3e268bb15d85370533/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/luvrajsingh/.gradle/caches/transforms-3/c6c52d9a2de42e3e268bb15d85370533/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/1cd9e1a1298230aab0fd9e4bf57de63b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/1cd9e1a1298230aab0fd9e4bf57de63b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/9d4b4bfddc3bbee5f99ee87131f652dd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/9d4b4bfddc3bbee5f99ee87131f652dd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2df7a37aa3a68488e56b37522f23920b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/2df7a37aa3a68488e56b37522f23920b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/f351339e995d83bd90572ac782cba607/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/f351339e995d83bd90572ac782cba607/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/876d729d94d634a2d44c2d05c135eb7a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/876d729d94d634a2d44c2d05c135eb7a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/70a1f0f122999d410729cc55f6c8ca20/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/70a1f0f122999d410729cc55f6c8ca20/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/1422d6485342cc0b62aa0a9149abc53b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/1422d6485342cc0b62aa0a9149abc53b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/8f2ae6637df0765c31efa474ef1863a1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/luvrajsingh/.gradle/caches/transforms-3/8f2ae6637df0765c31efa474ef1863a1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luvrajsingh/Desktop/To-Do-App-Kotlin-master-2/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/7f7261ae9a1c1898dc1a875cfe2f13b8/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/7f3ccbe1697d61fa4ddd52013ad31598/transformed/room-runtime-2.4.2/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/7f3ccbe1697d61fa4ddd52013ad31598/transformed/room-runtime-2.4.2/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/7f3ccbe1697d61fa4ddd52013ad31598/transformed/room-runtime-2.4.2/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.2] /Users/luvrajsingh/.gradle/caches/transforms-3/7f3ccbe1697d61fa4ddd52013ad31598/transformed/room-runtime-2.4.2/AndroidManifest.xml:26:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e84810b9e50a0d9cb42249bce714adc3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e84810b9e50a0d9cb42249bce714adc3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/1cd9e1a1298230aab0fd9e4bf57de63b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/1cd9e1a1298230aab0fd9e4bf57de63b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/luvrajsingh/.gradle/caches/transforms-3/09aa03434dcf702df24bb7d66c0f0f91/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e84810b9e50a0d9cb42249bce714adc3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e84810b9e50a0d9cb42249bce714adc3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/luvrajsingh/.gradle/caches/transforms-3/e84810b9e50a0d9cb42249bce714adc3/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

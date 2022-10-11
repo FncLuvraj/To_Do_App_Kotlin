@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.todoapp-mergeDebugResources-51:/layout/fragment_add.xml",
+        "source": "com.example.todoapp-main-54:/layout/fragment_add.xml"
+    },
+    {
+        "merged": "com.example.todoapp-mergeDebugResources-51:/layout/fragment_list.xml",
+        "source": "com.example.todoapp-main-54:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.example.todoapp-mergeDebugResources-51:/layout/fragment_update.xml",
+        "source": "com.example.todoapp-main-54:/layout/fragment_update.xml"
+    },
+    {
+        "merged": "com.example.todoapp-mergeDebugResources-51:/layout/row_layout.xml",
+        "source": "com.example.todoapp-main-54:/layout/row_layout.xml"
+    },
+    {
+        "merged": "com.example.todoapp-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.example.todoapp-main-54:/layout/activity_main.xml"
+    }
+]
