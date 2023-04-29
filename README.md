@@ -1,1 +1,2 @@
-# To_Do_App_Kotlin
+#        TaskGenius - Smart Task Manager
+
